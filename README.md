@@ -25,6 +25,10 @@ module.exports = {
 };
 ```
 
+シングルがエラーになる設定
+
+FYI: https://eslint.org/docs/rules/quotes#double
+
 .prettierrc.js
 
 ```js
